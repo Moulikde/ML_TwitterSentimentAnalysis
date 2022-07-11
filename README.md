@@ -1,4 +1,5 @@
 # TwitterSentimentAnalysis
+
 The aim of this Natural Language Processing project is to develop Machine Learning Classifiers to classify text posts (tweets) from Twitter into Positive, Negative, or Neutral Labels based on the overall sentiment of the tweet.
 
 #Project Goal and Methodology
@@ -44,3 +45,7 @@ Textblob: https://towardsdatascience.com/my-absolute-go-to-for-sentiment-analysi
 SVM Kernels: https://medium.com/analytics-vidhya/introduction-to-svm-and-kernel-trick-part-1-theory-d990e2872ace
 
 Kernels: https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+It is a Academic group project with @getlow012 who is a fellow data scientist with exceptional skill and talent.
