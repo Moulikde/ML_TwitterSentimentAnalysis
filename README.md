@@ -34,8 +34,13 @@ Model 4 - Neural Network - good for nonlinear problems such as sentiment analysi
 #Citations
 
 Dataset: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+
 Textblob: https://textblob.readthedocs.io/en/dev/
+
 Flair: https://github.com/flairNLP/flair
+
 Textblob: https://towardsdatascience.com/my-absolute-go-to-for-sentiment-analysis-textblob-3ac3a11d524
+
 SVM Kernels: https://medium.com/analytics-vidhya/introduction-to-svm-and-kernel-trick-part-1-theory-d990e2872ace
+
 Kernels: https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02
