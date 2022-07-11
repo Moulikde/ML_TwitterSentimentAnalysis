@@ -48,4 +48,4 @@ Kernels: https://towardsdatascience.com/multiclass-classification-with-support-v
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-It is a Academic group project with github.com/getlow012 who is a fellow data scientist with exceptional skill and talent.
+It is a Academic group project with [Eric Low](https://github.com/getlow012) who is a fellow data scientist with exceptional skill and talent.
